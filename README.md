@@ -26,6 +26,13 @@ If you find this paper helpful, please consider citing it.
 }
 ```
 
+## 📍 Run
+
+**We sincerely apologize that, due to the authors’ recent workload, the code has not yet been thoroughly cleaned up and organized. We will gradually improve and refine it in future updates. For researchers interested in extending this work, the general pipeline is as follows:**
+
+1. **Use `get_representation.sh` or `get_representation_llm.sh` to extract CoT representations.**
+2. **Then run the `inference_txy_representation*.py` scripts for VLM inference.**
+
 ## ❤️ Acknowledgements
 
 This codebase is built upon and inspired by several excellent prior works and open-source projects. We sincerely thank the authors for making their papers and code publicly available.
