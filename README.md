@@ -3,7 +3,7 @@
 Official implementation for the AAAI 2026 Oral paper [L2V-CoT: Cross-Modal Transfer of Chain-of-Thought Reasoning via Latent Intervention](https://arxiv.org/abs/2511.17910).
 
 <div align="center">
-  <img src="main.png" width="600"><br>
+  <img src="main.png" width="800"><br>
   <h6 style="text-align: center;">Figure 1: The overview of Latent Intervention for LLM-to-VLM CoT Transfertion (L2V-CoT).</h6>
 </div>
 
