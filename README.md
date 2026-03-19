@@ -27,7 +27,7 @@ This codebase is built upon and inspired by several excellent prior works and op
 
 In particular, we would like to acknowledge the following projects:
 - [Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering (ACL 2025)](https://arxiv.org/abs/2503.11314)
-- [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging (ICLR 2026)](https://arxiv.org/abs/2505.05464)
+- [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging (ICML 2025)](https://arxiv.org/abs/2505.05464)
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
 
 Their contributions have greatly inspired and supported this work.
