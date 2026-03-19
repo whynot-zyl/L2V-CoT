@@ -19,7 +19,7 @@ Official implementation for the AAAI 2026 Oral paper [L2V-CoT: Cross-Modal Trans
 **We sincerely apologize that, due to the authors’ recent workload, the code has not yet been thoroughly cleaned up and organized. We will gradually improve and refine it in future updates. For researchers interested in extending this work, the general pipeline is as follows:**
 
 1. **Use `get_representation.sh` or `get_representation_llm.sh` to extract CoT representations.**
-2. **Then run the `inference_txy_representation*.py` scripts for VLM inference.**
+2. **Then run the `evaluate_vlm_representation*.sh` scripts for VLM inference.**
 
 ## ❤️ Acknowledgements
 
