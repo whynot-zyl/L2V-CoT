@@ -13,18 +13,6 @@ Official implementation for the AAAI 2026 Oral paper [L2V-CoT: Cross-Modal Trans
 2. We propose L2V-CoT, a novel training-free method that transfers the general CoT reasoning capability of LLMs to VLMs, thereby enhancing the reasoning ability of VLMs.
 3. Extensive experiments validate the effectiveness of our approach in transferring CoT reasoning across modalities.
 
-## ✏️ Citation
-
-If you find this paper helpful, please consider citing it.
-
-```
-@article{zhan2025l2v,
-  title={L2V-CoT: Cross-Modal Transfer of Chain-of-Thought Reasoning via Latent Intervention},
-  author={Zhan, Yuliang and Tang, Xinyu and Wan, Han and Li, Jian and Wen, Ji-Rong and Sun, Hao},
-  journal={arXiv preprint arXiv:2511.17910},
-  year={2025}
-}
-```
 
 ## 📍 Run
 
@@ -43,3 +31,16 @@ In particular, we would like to acknowledge the following projects:
 - [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
 
 Their contributions have greatly inspired and supported this work.
+
+## ✏️ Citation
+
+If you find this paper helpful, please consider citing it.
+
+```
+@article{zhan2025l2v,
+  title={L2V-CoT: Cross-Modal Transfer of Chain-of-Thought Reasoning via Latent Intervention},
+  author={Zhan, Yuliang and Tang, Xinyu and Wan, Han and Li, Jian and Wen, Ji-Rong and Sun, Hao},
+  journal={arXiv preprint arXiv:2511.17910},
+  year={2025}
+}
+```
